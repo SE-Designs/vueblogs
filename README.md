@@ -39,4 +39,6 @@ Locally preview production build:
 npm run preview
 ```
 
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for more information.
+## Deployment:
+
+You can access the server at **https://dainty-flan-8f44cc.netlify.app/**
